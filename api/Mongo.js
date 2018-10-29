@@ -1,7 +1,10 @@
 const mongoose = require('mongoose');
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://mongo:27017/BDD_MongoDB', {
+mongoose.connect('mongodb://localhost:27017/BDD_MongoDB', {
+/*
+Use this and comment the line above to use docker
+mongoose.connect('mongodb://mongo:27017/BDD_MongoDB', {*/
   reconnectTries: Number.MAX_VALUE,
   reconnectInterval: 1000,
   useNewUrlParser: true,
