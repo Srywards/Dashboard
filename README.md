@@ -2,6 +2,8 @@
 
 > Epitech project
 
+![dashboard 1](https://user-images.githubusercontent.com/15232456/47653325-8d739e80-db88-11e8-9364-ce5a264a68c0.png)
+
 ## Build Setup
 
 ``` bash
