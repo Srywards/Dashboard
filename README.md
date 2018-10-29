@@ -2,6 +2,8 @@
 
 > Epitech project
 
+![dashboard 1](https://user-images.githubusercontent.com/15232456/47653325-8d739e80-db88-11e8-9364-ce5a264a68c0.png)
+
 ## Build Setup
 
 ``` bash
@@ -44,6 +46,7 @@ The service server will respond to the request http://localhost:8080/about.json
 - [Node](https://nodejs.org/en/) >= 8
 - [Nuxt.js](https://github.com/nuxt/nuxt.js)>= 2.2
 - [Vuetify.js](https://vuetifyjs.com/)>= 1.3
+- [MongoDB] (https://www.mongodb.com/fr)>= 4.0.3-1
 
 For detailed explanation on how things work, check out the [Nuxt.js](https://github.com/nuxt/nuxt.js) and [Vuetify.js](https://vuetifyjs.com/) documentation.
 
